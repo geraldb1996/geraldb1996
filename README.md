@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://tenor.com/search/programing-gifs" width="100"/>
 </div>
 
-## Hey there ##
+## Hey there 😀 ##
+
+My name is Gerald, sys engineer, gamedev and MMA fighter.
