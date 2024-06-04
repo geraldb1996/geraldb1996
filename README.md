@@ -7,7 +7,7 @@ Hey there! 😀
 
 My name is Gerald, sys engineer, gamedev and MMA fighter.
   
-  <b>🎮 currently working on:</b> Developing some indie games (RetoNica2)
+  <b>🎮 currently working on:</b> Developing some indie games
   
   <b>📚 Learning:</b> CSS, JavaScript, ReactNative
   
