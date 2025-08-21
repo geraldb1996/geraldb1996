@@ -5,13 +5,13 @@
 <div align="center">
 Hey there! 😀
 
-My name is Gerald, sys engineer, gamedev and MMA fighter.
+My name is Gerald, sys engineer, gamedev and retired MMA fighter.
   
   <b>🎮 currently working on:</b> Developing some indie games
   
   <b>📚 Learning:</b> GDscript, Godot
   
-  <b>🖥️ Ubuntu Linux - Never going back to Windows</b>
+  <b>🖥️ Linux - Never going back to Windows</b>
    
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
