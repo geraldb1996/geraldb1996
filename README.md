@@ -5,7 +5,7 @@
 <div align="center">
 Hey there! 😀
 
-My name is Gerald, sys engineer, gamedev and retired MMA fighter.
+Sys Engineer 🖥️ | Indie Game Dev 🎮 | Tech Enthusiast ⚙️
   
   <b>🎮 currently working on:</b> Developing some indie games
   
