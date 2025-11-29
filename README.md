@@ -1,25 +1,51 @@
-<div id="header" align="center">
-  <img src="https://c.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif" width="100"/>
-</div>
-
+<!-- HEADER -->
 <div align="center">
-Hey there! 😀
+  <img src="https://c.tenor.com/NwY5ppxLs_oAAAAd/kitten-keybo.gif" width="110" />
+  
+  <h1>Hey there! 👋</h1>
 
-Sys Engineer 🖥️ | Indie Game Dev 🎮 | Tech Enthusiast ⚙️
-  
-  <b>🎮 currently working on:</b> Developing some indie games
-  
-  <b>📚 Learning:</b> GDscript, Godot
-  
-  <b>🖥️ Linux - Never going back to Windows</b>
-   
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="Godot" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/331267/yoyo-games.svg" title="GameMaker" **alt="GameMaker" width="40" height="40"/>
+  <strong>Sys Engineer 🖥️ | Indie Game Dev 🎮 | Tech Enthusiast ⚙️</strong>
 </div>
+
+---
+
+<!-- ABOUT -->
+<div align="center">
+
+### 🎮 Currently Working On
+Indie game projects powered by Godot & pure madness
+
+### 📚 Learning
+GDscript • Godot Engine
+
+### 🐧 OS of Choice
+Linux enjoyer — GarudaOS
+
+</div>
+
+---
+
+<!-- TECH STACK -->
+<div align="center">
+
+### ⚙️ Tech Stack
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" width="45" height="45"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/331267/yoyo-games.svg" title="GameMaker" width="45" height="45"/>
+</div>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
   
+✨ *Building stuff, breaking stuff, fixing it… eventually.*
+
 </div>
