@@ -37,6 +37,7 @@ Linux enjoyer — GarudaOS
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" width="45" height="45"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331267/yoyo-games.svg" title="GameMaker" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/374016/python.svg" title="Python" width="45" height="45"/>
 </div>
 
 </div>
