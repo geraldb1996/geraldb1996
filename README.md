@@ -13,7 +13,7 @@
 <div align="center">
 
 ### 🎮 Currently Working On
-Indie game projects powered by Godot, GameMaker & pure madness
+Indie game projects powered by Godot, GameMaker & caffeine
 
 ### 📚 Learning
 GDscript • Godot Engine
